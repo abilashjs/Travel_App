@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>from</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 10:32:35</sys_created_on>
+        <sys_id>7e21a2ef877391101801cbb9cebb350b</sys_id>
+        <sys_name>from</sys_name>
+        <sys_package display_value="Travel Booking" source="x_24353_travel_boo">f648ed63877f51101801cbb9cebb35b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</sys_scope>
+        <sys_update_name>sys_ui_policy_action_7e21a2ef877391101801cbb9cebb350b</sys_update_name>
+        <table>x_24353_travel_boo_booking_request</table>
+        <ui_policy display_value="make Fields mandatory">ba7062ef877391101801cbb9cebb3500</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

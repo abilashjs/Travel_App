@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Travel User registarion">df180aa7873391101801cbb9cebb35b5</sc_cat_item>
+        <sc_category display_value="Travel Guide">64684ea7873391101801cbb9cebb3518</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 08:44:37</sys_created_on>
+        <sys_id>61788ea7873391101801cbb9cebb3564</sys_id>
+        <sys_name>Travel Guide.Travel User registarion</sys_name>
+        <sys_package display_value="Travel Booking" source="x_24353_travel_boo">f648ed63877f51101801cbb9cebb35b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</sys_scope>
+        <sys_update_name>sc_cat_item_category_61788ea7873391101801cbb9cebb3564</sys_update_name>
+    </sc_cat_item_category>
+</record_update>

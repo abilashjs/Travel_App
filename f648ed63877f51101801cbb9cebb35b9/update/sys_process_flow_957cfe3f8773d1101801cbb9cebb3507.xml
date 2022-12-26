@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_24353_travel_boo_booking_request">status=cancel^EQ<item display_value="Cancelled" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="cancel"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Cancelled</label>
+        <name>Travel Boking Rquest - Cancelled</name>
+        <order>400</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-23 07:10:17</sys_created_on>
+        <sys_id>957cfe3f8773d1101801cbb9cebb3507</sys_id>
+        <sys_name>Travel Boking Rquest - Cancelled</sys_name>
+        <sys_package display_value="Travel Booking" source="x_24353_travel_boo">f648ed63877f51101801cbb9cebb35b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</sys_scope>
+        <sys_update_name>sys_process_flow_957cfe3f8773d1101801cbb9cebb3507</sys_update_name>
+        <table>x_24353_travel_boo_booking_request</table>
+    </sys_process_flow>
+</record_update>

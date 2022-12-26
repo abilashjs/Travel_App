@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Booking Request Item Stream">1b29656b87bf51101801cbb9cebb350d</item_stream>
+        <segment display_value="Booking Request Item Stream Segment">5f29656b87bf51101801cbb9cebb350c</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 06:27:57</sys_created_on>
+        <sys_id>1329656b87bf51101801cbb9cebb350e</sys_id>
+        <sys_name/>
+        <sys_package display_value="Travel Booking" source="x_24353_travel_boo">f648ed63877f51101801cbb9cebb35b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_1329656b87bf51101801cbb9cebb350e</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

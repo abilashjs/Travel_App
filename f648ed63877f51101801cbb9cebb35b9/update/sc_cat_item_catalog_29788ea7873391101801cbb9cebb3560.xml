@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Travel User registarion">df180aa7873391101801cbb9cebb35b5</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 08:44:37</sys_created_on>
+        <sys_id>29788ea7873391101801cbb9cebb3560</sys_id>
+        <sys_name>Service Catalog.Travel User registarion</sys_name>
+        <sys_package display_value="Travel Booking" source="x_24353_travel_boo">f648ed63877f51101801cbb9cebb35b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_29788ea7873391101801cbb9cebb3560</sys_update_name>
+    </sc_cat_item_catalog>
+</record_update>

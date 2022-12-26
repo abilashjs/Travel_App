@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_24353_travel_boo.travel_agent" name="x_24353_travel_boo.travel_agent">4188e52b87bf51101801cbb9cebb35a6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 06:25:03</sys_created_on>
+        <sys_id>cd88e52b87bf51101801cbb9cebb35a6</sys_id>
+        <sys_name>4188e52b87bf51101801cbb9cebb35a6</sys_name>
+        <sys_package display_value="Travel Booking" source="x_24353_travel_boo">f648ed63877f51101801cbb9cebb35b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cd88e52b87bf51101801cbb9cebb35a6</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

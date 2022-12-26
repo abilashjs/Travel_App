@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <ignore_in_now_experience>false</ignore_in_now_experience>
+        <name>x_24353_travel_boo.DemoScript</name>
+        <script><![CDATA[var x_24353_travel_boo = x_24353_travel_boo || {};
+
+x_24353_travel_boo.DemoScript = (function() {
+    "use strict";
+
+    // set your private variables and functions here. For example:  
+    function private_function(tableName) {
+		alert("test");
+        var privateVar = 0;
+        var gr = new GlideRecord(tableName);
+        gr.addQuery("sys_created_by", g_user.getuserName);
+        gr.query();
+        while (gr.next()) {
+            privateVar++;
+        }
+
+        alert("Value is :"+privateVar );
+    }
+
+
+    /* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+    	x_24353_travel_boo.sharedVar = 0; 
+
+     Then access them in your scripts the same way. For example: 
+    	function get_shared() {
+    		return x_24353_travel_boo.sharedVar;
+    	}
+    */
+
+    //return {
+
+        /* set your public API here. For example:
+        		incrementAndReturnPrivateVar: function() {
+        			return private_function();
+        		},
+        */
+        type: "DemoScript"
+ //   };
+})();]]></script>
+        <script_name>DemoScript</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-23 06:05:57</sys_created_on>
+        <sys_id>cb0d2abf8733d1101801cbb9cebb35cd</sys_id>
+        <sys_name>x_24353_travel_boo.DemoScript</sys_name>
+        <sys_package display_value="Travel Booking" source="x_24353_travel_boo">f648ed63877f51101801cbb9cebb35b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</sys_scope>
+        <sys_update_name>sys_ui_script_cb0d2abf8733d1101801cbb9cebb35cd</sys_update_name>
+        <ui_type>0</ui_type>
+        <use_scoped_format>true</use_scoped_format>
+    </sys_ui_script>
+</record_update>

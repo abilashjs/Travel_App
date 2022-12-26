@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-23 06:44:42</sys_created_on>
+        <sys_id>d4867a378773d1101801cbb9cebb3509</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_24353_travel_boo_booking_request.status.x_24353_travel_boo.travel_agent</sys_name>
+        <sys_package display_value="Travel Booking" source="x_24353_travel_boo">f648ed63877f51101801cbb9cebb35b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</sys_scope>
+        <sys_security_acl display_value="x_24353_travel_boo_booking_request.status">2e767af78773d1101801cbb9cebb3521</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d4867a378773d1101801cbb9cebb3509</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-23 06:45:21</sys_updated_on>
+        <sys_user_role display_value="x_24353_travel_boo.travel_agent" name="x_24353_travel_boo.travel_agent">4188e52b87bf51101801cbb9cebb35a6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</application>
+        <file_path/>
+        <instance_id>99004187db5ad590b847ac44d49619b6</instance_id>
+        <instance_name>dev139700</instance_name>
+        <name>sys_security_acl_role_d4867a378773d1101801cbb9cebb3509</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-23 06:44:42</sys_created_on><sys_id>d4867a378773d1101801cbb9cebb3509</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_24353_travel_boo_booking_request.status.x_24353_travel_boo.travel_agent</sys_name><sys_package display_value="Travel Booking" source="x_24353_travel_boo">f648ed63877f51101801cbb9cebb35b9</sys_package><sys_policy/><sys_scope display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</sys_scope><sys_security_acl display_value="x_24353_travel_boo_booking_request.status">2e767af78773d1101801cbb9cebb3521</sys_security_acl><sys_update_name>sys_security_acl_role_d4867a378773d1101801cbb9cebb3509</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-23 06:45:21</sys_updated_on><sys_user_role display_value="x_24353_travel_boo.travel_agent" name="x_24353_travel_boo.travel_agent">4188e52b87bf51101801cbb9cebb35a6</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1305104976</payload_hash>
+        <record_name>x_24353_travel_boo_booking_request.status.x_24353_travel_boo.travel_agent</record_name>
+        <reverted_from/>
+        <source>b648ed63877f51101801cbb9cebb35bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-23 06:45:21</sys_created_on>
+        <sys_id>08c67ef78773d1101801cbb9cebb35b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1853dbaa8d00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-23 06:45:21</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>40c67ef7cc73d110ae0cf7c00d5d5eb2</update_guid>
+        <update_guid_history>40c67ef7cc73d110ae0cf7c00d5d5eb2:1305104976,26967a372573d1107e9312019e48a110:-1765915422</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_24353_travel_boo_booking_request.status.x_24353_travel_boo.travel_agent">73f6b23b8773d1101801cbb9cebb35a7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-23 06:46:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>92944ffaaae14dae950742da5383e5c1</sys_id>
+        <sys_metadata>d4867a378773d1101801cbb9cebb3509</sys_metadata>
+        <sys_name>x_24353_travel_boo_booking_request.status.x_24353_travel_boo.travel_agent</sys_name>
+        <sys_package display_value="Travel Booking" source="x_24353_travel_boo">f648ed63877f51101801cbb9cebb35b9</sys_package>
+        <sys_parent display_value="x_24353_travel_boo_booking_request.status">2e767af78773d1101801cbb9cebb3521</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Travel Booking">f648ed63877f51101801cbb9cebb35b9</sys_scope>
+        <sys_scope_delete display_value="">047fe6c8b7114004944c8339ca1b9f61</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d4867a378773d1101801cbb9cebb3509</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d4867a378773d1101801cbb9cebb3509">08c67ef78773d1101801cbb9cebb35b2</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
